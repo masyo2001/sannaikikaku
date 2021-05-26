@@ -1,0 +1,209 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/30cd8e03/
+AnonymousFunction03ba84f70100	src/classes/FRDProcess.jsx	/^        this._exportCSV("BalloonNumbers.csv", function(fileName) {$/;"	f	function:FRDProcess.getBalloonNumbers
+AnonymousFunction03ba84f70200	src/classes/FRDProcess.jsx	/^        this._exportCSV("PartsNames.csv", function(fileName) {$/;"	f	function:FRDProcess.getPartsNames
+AnonymousFunction86d4bda40100	src/scripts/GetSelectedText.jsx	/^        process._exportCSV("Selection.csv", function(file) {$/;"	f
+AnonymousFunction926ff9400100	src/classes/TextProcess.jsx	/^        this._exportCSV("PPCInfo.csv", function(newFile) {$/;"	f	function:TextProcess.getPPCInfo
+AnonymousFunction926ff9400200	src/classes/TextProcess.jsx	/^        this._exportCSV(fileName, function(newFile) {$/;"	f	function:TextProcess.generateSumitomoFrequencyDistribution
+AnonymousFunction926ff9400300	src/classes/TextProcess.jsx	/^        this._exportCSV(fileName, function(newFile) {$/;"	f	function:TextProcess.generateTakeuchiFrequencyDistribution
+AnonymousFunction926ff9400400	src/classes/TextProcess.jsx	/^        this._exportCSV("AllText.csv", function(fileName) {$/;"	f	function:TextProcess.getAllText
+AnonymousFunction926ff9400500	src/classes/TextProcess.jsx	/^        return csvIterator.filter(function(element) {$/;"	f
+AnonymousFunctiona85609290100	src/classes/TakeuchiProcess.jsx	/^        this._exportCSV("BalloonNumbers.csv", function(fileName) {$/;"	f	function:TakeuchiProcess.getBalloonNumbers
+AnonymousFunctiona945735e0100	src/classes/RichBlackProcess.jsx	/^        var spotColorIterator = filterIterator.filter(function(element) {$/;"	f	function:RichBlackProcess.highlightSwatches
+AnonymousFunctiona945735e0200	src/classes/RichBlackProcess.jsx	/^        var spotColorIterator = filterIterator.filter(function(element) {$/;"	f	function:RichBlackProcess.applyRichBlackToHighlightedSwatches
+AnonymousFunctioncb5b057d0100	src/classes/DXFProcess.jsx	/^        this._exportCSV(fileName, function(newFile) {$/;"	f	function:DXFProcess.getDXFTable
+Array	src/classes/LinesProcess.jsx	/^Array.prototype.allValuesSame = function() {$/;"	c
+CSVRow	src/classes/TextProcess.jsx	/^function CSVRow(row) {$/;"	c
+DASHED_LINE	src/classes/FRDProcess.jsx	/^        DASHED_LINE: [2, 2],$/;"	p	class:FRDProcess.LineTypes
+DASHED_LINE	src/classes/LinesProcess.jsx	/^    DASHED_LINE: [3, 3], \/\/ 0.27pt or 0.47pt (透過線) (TRANSMISSION)$/;"	p	class:LineTypes
+DASHED_LINE	src/classes/TakeuchiProcess.jsx	/^        DASHED_LINE: [1.98399996757507,1.98424994945526],$/;"	p	class:TakeuchiProcess.LineTypes
+DXFProcess	src/classes/DXFProcess.jsx	/^function DXFProcess() {$/;"	c
+EXPORTED_DASHED_LINE	src/classes/LinesProcess.jsx	/^    EXPORTED_DASHED_LINE: [2.55174374580383, 2.55174374580383]$/;"	p	class:LineTypes
+FRDPolicy	src/classes/FRDPolicy.jsx	/^function FRDPolicy() {}$/;"	f
+FRDProcess	src/classes/FRDProcess.jsx	/^function FRDProcess() {$/;"	c
+Helper	src/classes/Helper.jsx	/^function Helper() {}$/;"	f
+Iterator	src/classes/Iterator.jsx	/^function Iterator(collection) {$/;"	c
+KoshimizuDeletionPolicy	src/classes/KoshimizuDeletionPolicy.jsx	/^function KoshimizuDeletionPolicy() {}$/;"	f
+KoshimizuRichBlackPolicy	src/classes/KoshimizuRichBlackPolicy.jsx	/^function KoshimizuRichBlackPolicy() {}$/;"	f
+LINE_HEIGHT	src/scripts/PrepareForAftamaUpload.jsx	/^const LINE_HEIGHT = 9.6;$/;"	C
+LineTypes	src/classes/FRDProcess.jsx	/^    const LineTypes = {$/;"	c	class:FRDProcess
+LineTypes	src/classes/LinesProcess.jsx	/^const LineTypes = {$/;"	c
+LineTypes	src/classes/TakeuchiProcess.jsx	/^    const LineTypes = {$/;"	c	class:TakeuchiProcess
+LinesProcess	src/classes/LinesProcess.jsx	/^function LinesProcess() {$/;"	c
+ONE_DOTTED_LINE	src/classes/FRDProcess.jsx	/^        ONE_DOTTED_LINE: [15, 2, 2, 2],$/;"	p	class:FRDProcess.LineTypes
+ONE_DOTTED_LINE	src/classes/LinesProcess.jsx	/^    ONE_DOTTED_LINE: [20, 3, 3, 3], \/\/ 0.29pt or 0.49pt (引出線) (LEADING)$/;"	p	class:LineTypes
+ONE_DOTTED_LINE	src/classes/TakeuchiProcess.jsx	/^        ONE_DOTTED_LINE: [42.5196990966797,1.98424994945526,1.98424994945526,1.98424994945526],$/;"	p	class:TakeuchiProcess.LineTypes
+ProgressBar	src/classes/ProgressBar.jsx	/^function ProgressBar() {$/;"	c
+Project Description	README.md	/^# Project Description$/;"	c
+RichBlackProcess	src/classes/RichBlackProcess.jsx	/^function RichBlackProcess() {$/;"	c
+TWO_DOTTED_LINE	src/classes/FRDProcess.jsx	/^        TWO_DOTTED_LINE: [15, 2, 2, 2, 2, 2],$/;"	p	class:FRDProcess.LineTypes
+TWO_DOTTED_LINE	src/classes/LinesProcess.jsx	/^    TWO_DOTTED_LINE: [20, 3, 3, 3, 3, 3], \/\/ 0.28pt or 0.48pt (仮想線) (VIRTUAL)$/;"	p	class:LineTypes
+TWO_DOTTED_LINE	src/classes/TakeuchiProcess.jsx	/^        TWO_DOTTED_LINE: [42.5196990966797,1.98424994945526,1.98424994945526,1.98424994945526,1./;"	p	class:TakeuchiProcess.LineTypes
+TakeuchiPolicy	src/classes/TakeuchiPolicy.jsx	/^function TakeuchiPolicy() {}$/;"	f
+TakeuchiProcess	src/classes/TakeuchiProcess.jsx	/^function TakeuchiProcess() {$/;"	c
+TextProcess	src/classes/TextProcess.jsx	/^function TextProcess() {$/;"	c
+TypeChecker	src/classes/TypeChecker.jsx	/^function TypeChecker() {}$/;"	f
+_buildNewFileName	src/classes/RichBlackProcess.jsx	/^    this._buildNewFileName = function() {$/;"	m	class:RichBlackProcess
+_countFrequencyDistribution	src/classes/TextProcess.jsx	/^    this._countFrequencyDistribution = function(array) {$/;"	m	class:TextProcess
+_createTableFromCSVFile	src/classes/TextProcess.jsx	/^    this._createTableFromCSVFile = function(file) {$/;"	f
+_filter	src/classes/TextProcess.jsx	/^    this._filter = function(csv) {$/;"	f
+_getAllText	src/classes/TextProcess.jsx	/^    this._getAllText = function() {$/;"	m	class:TextProcess
+_getDocumentFullPath	src/classes/RichBlackProcess.jsx	/^    this._getDocumentFullPath = function() {$/;"	m	class:RichBlackProcess
+_getPPCString	src/classes/TextProcess.jsx	/^    this._getPPCString = function() {$/;"	m	class:TextProcess
+_getTextFrames	src/classes/DXFProcess.jsx	/^    this._getTextFrames = function() {$/;"	m	class:DXFProcess
+_highlightSelectionRecursively	src/classes/LinesProcess.jsx	/^    this._highlightSelectionRecursively = function(selectionIterator) {$/;"	m	class:LinesProcess
+_isOldModel	src/classes/LinesProcess.jsx	/^    this._isOldModel = function() {$/;"	m	class:LinesProcess
+_recursivelyRemoveInvisibleLayers	src/classes/RichBlackProcess.jsx	/^    this._recursivelyRemoveInvisibleLayers = function(contextIterator) {$/;"	m	class:RichBlackProcess
+_replaceAndHighlightText	src/classes/TextProcess.jsx	/^    this._replaceAndHighlightText = function(csvIterator, textFramesIterator) {$/;"	f
+_saveAsEPS	src/classes/TextProcess.jsx	/^    this._saveAsEPS = function(fileName) {$/;"	f
+_setUnitPreferenceToInches	src/classes/LinesProcess.jsx	/^    this._setUnitPreferenceToInches = function() {$/;"	m	class:LinesProcess
+_setUnitPreferenceToMillimeters	src/classes/LinesProcess.jsx	/^    this._setUnitPreferenceToMillimeters = function() {$/;"	m	class:LinesProcess
+_setUnitPreferenceToPoints	src/classes/LinesProcess.jsx	/^    this._setUnitPreferenceToPoints = function() {$/;"	m	class:LinesProcess
+_sortByCoordinates	src/classes/DXFProcess.jsx	/^    this._sortByCoordinates = function(a, b) {$/;"	m	class:DXFProcess
+_stamp	src/classes/TextProcess.jsx	/^    this._stamp = function(document) {$/;"	f
+_unlockLayer1	src/classes/LinesProcess.jsx	/^    this._unlockLayer1 = function() {$/;"	m	class:LinesProcess
+addBalloonNumbers	src/classes/FRDProcess.jsx	/^    this.addBalloonNumbers = function() {$/;"	m	class:FRDProcess
+allValuesSame	src/classes/LinesProcess.jsx	/^Array.prototype.allValuesSame = function() {$/;"	m	class:Array
+applyRichBlackToHighlightedPageItems	src/classes/RichBlackProcess.jsx	/^    this.applyRichBlackToHighlightedPageItems = function() {$/;"	m	class:RichBlackProcess
+applyRichBlackToHighlightedSwatches	src/classes/RichBlackProcess.jsx	/^    this.applyRichBlackToHighlightedSwatches = function() {$/;"	m	class:RichBlackProcess
+batchProcessFiles	src/classes/FRDProcess.jsx	/^    this.batchProcessFiles = function() {$/;"	m	class:FRDProcess
+closeEverythingWithoutSaving	src/classes/Helper.jsx	/^Helper.closeEverythingWithoutSaving = function() {$/;"	f	function:Helper
+convertLinesToNewEdition	src/classes/LinesProcess.jsx	/^    this.convertLinesToNewEdition = function() {$/;"	m	class:LinesProcess
+convertLinesToOldEdition	src/classes/LinesProcess.jsx	/^    this.convertLinesToOldEdition = function() {$/;"	m	class:LinesProcess
+correctLines	src/classes/FRDProcess.jsx	/^    this.correctLines = function() {$/;"	m	class:FRDProcess
+correctLines	src/classes/TakeuchiProcess.jsx	/^    this.correctLines = function() {$/;"	m	class:TakeuchiProcess
+correctText	src/classes/FRDProcess.jsx	/^    this.correctText = function() {$/;"	m	class:FRDProcess
+createBaseEPSFromTemplate	src/classes/TextProcess.jsx	/^    this.createBaseEPSFromTemplate = function(templatePath) {$/;"	f
+createLayers	src/classes/FRDProcess.jsx	/^    this.createLayers = function() {$/;"	m	class:FRDProcess
+deleteAllDimensionComponents	src/classes/DXFProcess.jsx	/^    this.deleteAllDimensionComponents = function() {$/;"	m	class:DXFProcess
+deleteAllPointComponents	src/classes/DXFProcess.jsx	/^    this.deleteAllPointComponents = function() {$/;"	m	class:DXFProcess
+deleteUnnecessaryPaths	src/classes/FRDProcess.jsx	/^    this.deleteUnnecessaryPaths = function() {$/;"	m	class:FRDProcess
+displayIterationProgress	src/classes/ProgressBar.jsx	/^    this.displayIterationProgress = function(iterator) {$/;"	m	class:ProgressBar
+displayObjectInfo	src/classes/Helper.jsx	/^Helper.displayObjectInfo = function() {$/;"	f	function:Helper
+displayUsedFonts	src/classes/Helper.jsx	/^Helper.displayUsedFonts = function() {$/;"	f	function:Helper
+filter	src/classes/Iterator.jsx	/^    this.filter = function(callback) {$/;"	m	class:Iterator
+fixOldStyle	src/classes/TextProcess.jsx	/^    this.fixOldStyle = function() {$/;"	m	class:TextProcess
+generateSumitomoFrequencyDistribution	src/classes/TextProcess.jsx	/^    this.generateSumitomoFrequencyDistribution = function() {$/;"	m	class:TextProcess
+generateTakeuchiFrequencyDistribution	src/classes/TextProcess.jsx	/^    this.generateTakeuchiFrequencyDistribution = function() {$/;"	m	class:TextProcess
+getAllText	src/classes/TextProcess.jsx	/^    this.getAllText = function() {$/;"	m	class:TextProcess
+getAssemblyDrawing	src/classes/TextProcess.jsx	/^    this.getAssemblyDrawing = function() {$/;"	m	class:CSVRow
+getBalloonNumbers	src/classes/FRDProcess.jsx	/^    this.getBalloonNumbers = function() {$/;"	m	class:FRDProcess
+getBalloonNumbers	src/classes/TakeuchiProcess.jsx	/^    this.getBalloonNumbers = function() {$/;"	m	class:TakeuchiProcess
+getCurrentIndex	src/classes/Iterator.jsx	/^    this.getCurrentIndex = function() {$/;"	m	class:Iterator
+getDXFTable	src/classes/DXFProcess.jsx	/^    this.getDXFTable = function() {$/;"	m	class:DXFProcess
+getElement	src/classes/Iterator.jsx	/^    this.getElement = function(index) {$/;"	m	class:Iterator
+getEnglishTitle	src/classes/TextProcess.jsx	/^    this.getEnglishTitle = function() {$/;"	m	class:CSVRow
+getIllustrationVersion	src/classes/TextProcess.jsx	/^    this.getIllustrationVersion = function() {$/;"	m	class:CSVRow
+getJapaneseTitle	src/classes/TextProcess.jsx	/^    this.getJapaneseTitle = function() {$/;"	m	class:CSVRow
+getLength	src/classes/Iterator.jsx	/^    this.getLength = function() {$/;"	m	class:Iterator
+getListVersion	src/classes/TextProcess.jsx	/^    this.getListVersion = function() {$/;"	m	class:CSVRow
+getNumberOfPages	src/classes/TextProcess.jsx	/^    this.getNumberOfPages = function() {$/;"	m	class:CSVRow
+getPPC	src/classes/TextProcess.jsx	/^    this.getPPC = function() {$/;"	m	class:CSVRow
+getPPCInfo	src/classes/TextProcess.jsx	/^    this.getPPCInfo = function() {$/;"	m	class:TextProcess
+getPPCString	src/classes/TextProcess.jsx	/^    this.getPPCString = function() {$/;"	m	class:CSVRow
+getPartsNames	src/classes/FRDProcess.jsx	/^    this.getPartsNames = function() {$/;"	m	class:FRDProcess
+getUG	src/classes/TextProcess.jsx	/^    this.getUG = function() {$/;"	m	class:CSVRow
+hasNext	src/classes/Iterator.jsx	/^    this.hasNext = function() {$/;"	m	class:Iterator
+highlightAndFixLines	src/classes/LinesProcess.jsx	/^    this.highlightAndFixLines = function() {$/;"	m	class:LinesProcess
+highlightDigits	src/classes/DXFProcess.jsx	/^    this.highlightDigits = function() {$/;"	m	class:DXFProcess
+highlightEquiangularLines	src/classes/LinesProcess.jsx	/^    this.highlightEquiangularLines = function() {$/;"	m	class:LinesProcess
+highlightJapaneseText	src/classes/TextProcess.jsx	/^    this.highlightJapaneseText = function() {$/;"	c
+highlightPageItems	src/classes/RichBlackProcess.jsx	/^    this.highlightPageItems = function() {$/;"	m	class:RichBlackProcess
+highlightSelection	src/classes/LinesProcess.jsx	/^    this.highlightSelection = function() {$/;"	m	class:LinesProcess
+highlightSwatches	src/classes/RichBlackProcess.jsx	/^    this.highlightSwatches = function() {$/;"	m	class:RichBlackProcess
+highlightText	src/classes/DXFProcess.jsx	/^    this.highlightText = function() {$/;"	m	class:DXFProcess
+isEligible	src/classes/KoshimizuDeletionPolicy.jsx	/^KoshimizuDeletionPolicy.isEligible = function(item) {$/;"	f	function:KoshimizuDeletionPolicy
+isEligible	src/classes/KoshimizuRichBlackPolicy.jsx	/^KoshimizuRichBlackPolicy.isEligible = function(color) {$/;"	f	function:KoshimizuRichBlackPolicy
+isFillColorEligible	src/classes/KoshimizuRichBlackPolicy.jsx	/^KoshimizuRichBlackPolicy.isFillColorEligible = function(item) {$/;"	f	function:KoshimizuRichBlackPolicy
+isFillHighlighted	src/classes/KoshimizuRichBlackPolicy.jsx	/^KoshimizuRichBlackPolicy.isFillHighlighted = function(item) {$/;"	f	function:KoshimizuRichBlackPolicy
+isHighlighted	src/classes/KoshimizuRichBlackPolicy.jsx	/^KoshimizuRichBlackPolicy.isHighlighted = function(color) {$/;"	f	function:KoshimizuRichBlackPolicy
+isPathItem	src/classes/TypeChecker.jsx	/^TypeChecker.isPathItem = function(item) {$/;"	f	function:TypeChecker
+isPathStrokeColorValid	src/classes/FRDPolicy.jsx	/^FRDPolicy.isPathStrokeColorValid = function(pathItem) {$/;"	f	function:FRDPolicy
+isPathStrokeColorValid	src/classes/TakeuchiPolicy.jsx	/^TakeuchiPolicy.isPathStrokeColorValid = function(pathItem) {$/;"	f	function:TakeuchiPolicy
+isStrokeColorEligible	src/classes/KoshimizuRichBlackPolicy.jsx	/^KoshimizuRichBlackPolicy.isStrokeColorEligible = function(item) {$/;"	f	function:KoshimizuRichBlackPolicy
+isStrokeHighlighted	src/classes/KoshimizuRichBlackPolicy.jsx	/^KoshimizuRichBlackPolicy.isStrokeHighlighted = function(item) {$/;"	f	function:KoshimizuRichBlackPolicy
+isTextFillColorValid	src/classes/FRDPolicy.jsx	/^FRDPolicy.isTextFillColorValid = function(textFrame) {$/;"	f	function:FRDPolicy
+isTextFillColorValid	src/classes/TakeuchiPolicy.jsx	/^TakeuchiPolicy.isTextFillColorValid = function(textFrame) {$/;"	f	function:TakeuchiPolicy
+isTextFrame	src/classes/TypeChecker.jsx	/^TypeChecker.isTextFrame = function(item) {$/;"	f	function:TypeChecker
+isolateNumbers	src/classes/DXFProcess.jsx	/^    this.isolateNumbers = function() {$/;"	m	class:DXFProcess
+main	src/scripts/07-1.jsx	/^function main() {$/;"	f
+main	src/scripts/09-1.jsx	/^function main() {$/;"	f
+main	src/scripts/AddBalloonNumbers.jsx	/^function main() {$/;"	f
+main	src/scripts/ChangeTakeuchiSingleLetterFont.jsx	/^function main() {$/;"	f
+main	src/scripts/CloseEverythingWithoutSaving.jsx	/^function main() {$/;"	f
+main	src/scripts/ConvertLinesToNewEdition.jsx	/^function main() {$/;"	f
+main	src/scripts/ConvertLinesToOldEdition.jsx	/^function main() {$/;"	f
+main	src/scripts/CreateBaseEPSFromTemplate03.jsx	/^function main() {$/;"	f
+main	src/scripts/CreateBaseEPSFromTemplate05.jsx	/^function main() {$/;"	f
+main	src/scripts/CreateFRDLayers.jsx	/^function main() {$/;"	f
+main	src/scripts/DXFProcess1.jsx	/^function main() {$/;"	f
+main	src/scripts/DXFProcess2.jsx	/^function main() {$/;"	f
+main	src/scripts/DXFProcess3.jsx	/^function main() {$/;"	f
+main	src/scripts/DeleteDXFDimensionComponents.jsx	/^function main() {$/;"	f
+main	src/scripts/DeleteEmptyTextFrames.jsx	/^function main() {$/;"	f
+main	src/scripts/DeleteHighlightedLines.jsx	/^function main() {$/;"	f
+main	src/scripts/DeleteHighlightedText.jsx	/^function main() {$/;"	f
+main	src/scripts/DeleteUnnecessaryPaths.jsx	/^function main() {$/;"	f
+main	src/scripts/DisplayObjectInfo.jsx	/^function main() {$/;"	f
+main	src/scripts/FixIllustrations.jsx	/^function main() {$/;"	f
+main	src/scripts/FixOldStyle.jsx	/^function main() {$/;"	f
+main	src/scripts/GenerateSumitomoFrequencyDistribution.jsx	/^function main() {$/;"	f
+main	src/scripts/GenerateTakeuchiFrequencyDistribution.jsx	/^function main() {$/;"	f
+main	src/scripts/GetAllText.jsx	/^function main() {$/;"	f
+main	src/scripts/GetBalloonNumbers.jsx	/^function main() {$/;"	f
+main	src/scripts/GetDXFTable.jsx	/^function main() {$/;"	f
+main	src/scripts/GetPPCInfo.jsx	/^function main() {$/;"	f
+main	src/scripts/GetPartsNames.jsx	/^function main() {$/;"	f
+main	src/scripts/GetSelectedText.jsx	/^function main() {$/;"	f
+main	src/scripts/HighlightAndFixLinesInAllDocuments.jsx	/^function main() {$/;"	f
+main	src/scripts/HighlightAndFixLinesInSingleDocument.jsx	/^function main() {$/;"	f
+main	src/scripts/HighlightEquiangularLines.jsx	/^function main() {$/;"	f
+main	src/scripts/HighlightJapaneseText.jsx	/^function main() {$/;"	f
+main	src/scripts/HighlightSelection.jsx	/^function main() {$/;"	f
+main	src/scripts/IsolateNumbers.jsx	/^function main() {$/;"	f
+main	src/scripts/PaintDXFBlack.jsx	/^function main() {$/;"	f
+main	src/scripts/PrepareForAftamaUpload.jsx	/^function main() {$/;"	f
+main	src/scripts/ReduceArrowSize.jsx	/^function main() {$/;"	f
+main	src/scripts/ReplaceAndHighlightTextInAllDocuments.jsx	/^function main() {$/;"	f
+main	src/scripts/ReplaceAndHighlightTextInSingleDocument.jsx	/^function main() {$/;"	f
+main	src/scripts/RevertHighlightedLinesInAllDocuments.jsx	/^function main() {$/;"	f
+main	src/scripts/RevertHighlightedLinesInSingleDocument.jsx	/^function main() {$/;"	f
+main	src/scripts/RevertHighlightedTextInAllDocuments.jsx	/^function main() {$/;"	f
+main	src/scripts/RevertHighlightedTextInSingleDocument.jsx	/^function main() {$/;"	f
+main	src/scripts/RichBlackProcess1.jsx	/^function main() {$/;"	f
+main	src/scripts/RichBlackProcess2.jsx	/^function main() {$/;"	f
+main	src/scripts/Select10PointText.jsx	/^function main() {$/;"	f
+main	src/scripts/Select6PointText.jsx	/^function main() {$/;"	f
+main	src/scripts/Select7PointText.jsx	/^function main() {$/;"	f
+main	src/scripts/Select9PointText.jsx	/^function main() {$/;"	f
+main	src/scripts/SelectAxisLines.jsx	/^function main() {$/;"	f
+main	src/scripts/SelectBalloons.jsx	/^function main() {$/;"	f
+main	src/scripts/SelectCodes.jsx	/^function main() {$/;"	f
+main	src/scripts/Test.jsx	/^function main() {$/;"	f
+next	src/classes/Iterator.jsx	/^    this.next = function() {$/;"	m	class:Iterator
+paintDXFBlack	src/classes/DXFProcess.jsx	/^    this.paintDXFBlack = function() {$/;"	m	class:DXFProcess
+reduceFontSizeWhenTextContainsArrow	src/classes/TextProcess.jsx	/^    this.reduceFontSizeWhenTextContainsArrow = function() {$/;"	f
+refresh	src/classes/ProgressBar.jsx	/^    this.refresh = function(value) {$/;"	m	class:ProgressBar
+remove	src/classes/Iterator.jsx	/^    this.remove = function() {$/;"	m	class:Iterator
+removeInvisibleLayers	src/classes/RichBlackProcess.jsx	/^    this.removeInvisibleLayers = function() {$/;"	m	class:RichBlackProcess
+replaceAndHighlightTextInAllDocuments	src/classes/TextProcess.jsx	/^    this.replaceAndHighlightTextInAllDocuments = function() {$/;"	f
+replaceAndHighlightTextInSingleDocument	src/classes/TextProcess.jsx	/^    this.replaceAndHighlightTextInSingleDocument = function() {$/;"	f
+reset	src/classes/Iterator.jsx	/^    this.reset = function() {$/;"	m	class:Iterator
+revertHighlightedLines	src/classes/LinesProcess.jsx	/^    this.revertHighlightedLines = function() {$/;"	m	class:LinesProcess
+revertHighlightedTextInAllDocuments	src/classes/TextProcess.jsx	/^    this.revertHighlightedTextInAllDocuments = function() {$/;"	f
+revertHighlightedTextInSingleDocument	src/classes/TextProcess.jsx	/^    this.revertHighlightedTextInSingleDocument = function() {$/;"	f
+saveAs	src/classes/RichBlackProcess.jsx	/^    this.saveAs = function() {$/;"	m	class:RichBlackProcess
+selectAxisLines	src/classes/DXFProcess.jsx	/^    this.selectAxisLines = function() {$/;"	m	class:DXFProcess
+selectBalloons	src/classes/FRDProcess.jsx	/^    this.selectBalloons = function() {$/;"	m	class:FRDProcess
+selectBalloons	src/classes/TakeuchiProcess.jsx	/^    this.selectBalloons = function() {$/;"	m	class:TakeuchiProcess
+selectCodes	src/classes/DXFProcess.jsx	/^    this.selectCodes = function() {$/;"	m	class:DXFProcess
+selectHoseNumbers	src/classes/FRDProcess.jsx	/^    this.selectHoseNumbers = function() {$/;"	m	class:FRDProcess
+selectTextBySize	src/classes/FRDProcess.jsx	/^    this.selectTextBySize = function(sizeInPoints) {$/;"	m	class:FRDProcess
+setPanelText	src/classes/ProgressBar.jsx	/^    this.setPanelText = function(string) {$/;"	m	class:ProgressBar

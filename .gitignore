@@ -1,0 +1,11 @@
+.idea/
+binarized_scripts/
+samples/
+.DS_Store
+*.chm
+*.pdf
+*.js
+*.txt
+*.ai
+*.eps
+.tags
